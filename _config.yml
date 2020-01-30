@@ -3,16 +3,16 @@
 #
 
 # اسم المدونة الذي سيظهر في الأعلى
-name: اسم المدونة
+name: سايبرسنشي Cybersenshi
 
 # وصف قصير للمدونة والذي سيظهر تحت اسمها وكجزء من عنوان المدونة في محركات البحث
-description: مدونة جديدة
+description: مدونة سايبرسنشي Cybersenshi وتحتوي على أخر أخبار و تحديثات الخدمة
 
 # رابط صورة المدونة
 # لإستخدام صورة هويتك في GitHub ضع https://github.com/<اسم_المستخدم>.png في المتغير، مثلا لهويتي الشخصية أستخدم:
 # avatar: https://github.com/a3ammar.png
 # ولإخفاء الصورة نهائيًا احذف الرابط من المتغير
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://pbs.twimg.com/profile_images/1131753104645529601/7sgqAxHR_400x400.jpg
 
 
 #
@@ -21,34 +21,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 # لكل هوية تضعها هنا ستظهر أيقونة في أسفل المدونة
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
-  github: a3ammar/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  email: info@cybersenshi.com
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
-  twitter: jekyllrb
-  stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
-  youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
-  googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
-
-
-# ضع الاسم Disqus القصير الخاص بك (الاسم القصير وليس اسم المستخدم) لتفعيل الردود على المدونة
-# ستجد الاسم القصير الخاص بك في إعدادات حسابك في Disqus
-disqus:
+  twitter: thecybersenshi
 
 # إذا أردت تفعيل إحصاءات الزوار في Google Analytics أدخل المعرف الخاص بك (مثلاً UA-2110908-2)
 google_analytics:
 
 # عنوان موقعك مثلاً http://barryclark.github.io
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
-url:
-
-# إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: ""
+url: blog.cybersenshi.com
 
 
 #
