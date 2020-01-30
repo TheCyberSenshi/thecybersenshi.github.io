@@ -22,11 +22,11 @@ avatar: https://pbs.twimg.com/profile_images/1131753104645529601/7sgqAxHR_400x40
 # لكل هوية تضعها هنا ستظهر أيقونة في أسفل المدونة
 footer-links:
   email: info@cybersenshi.com
-  rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
+  rss: Cybersenshi.com
   twitter: thecybersenshi
 
 # إذا أردت تفعيل إحصاءات الزوار في Google Analytics أدخل المعرف الخاص بك (مثلاً UA-2110908-2)
-google_analytics:
+google_analytics: UA-142522483-1
 
 # عنوان موقعك مثلاً http://barryclark.github.io
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
