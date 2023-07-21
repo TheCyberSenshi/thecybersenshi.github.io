@@ -32,6 +32,24 @@ title: لنكتشف محتالي الإنترنت
 
 ![Scammer whatsapp text]({{ site.baseurl }}/images/sc_078bnz.jpg)
 
+5. الأخطاء الإملائية الكثيرة جداً. جداً. جداً. جداً.
+
+![Scammer typos]({{ site.baseurl }}/images/sc_fd5193.png)
+
+
+![Scammer typos]({{ site.baseurl }}/images/sc_e30956.png)
+
+
+![Scammer typos]({{ site.baseurl }}/images/sc_1a1372.png)
+
+
+![Scammer typos]({{ site.baseurl }}/images/sc_ca5e56.png)
+
+
+![Scammer typos]({{ site.baseurl }}/images/sc_759ee1.png)
+
+
+
 خبرة المؤسسين لسايبرسنشي Cybersenshi للأمن السيبراني تجاوزت 20 سنة في تخصصات تقنية متقدمة و معقدة و بشكل شبه يومي نقوم بعمل مقابلات شخصية للتوظيف و للتدريب و التوظيف في الأمن السيبراني لكن نختار القليل جداً، جداً، لأسباب معينة سنذكرها.
 
 نتعامل مع عدة أشخاص في مجال الأمن السيبراني و نشاهد تفاوت في مستوى الخبرات على الرغم من تشابه التأهيل الأكاديمي مما يؤثر على فرص قبول التوظيف و التدريب.
