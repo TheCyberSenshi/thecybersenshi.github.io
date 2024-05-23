@@ -22,7 +22,7 @@ avatar: https://www.cybersenshi.com/icons/icon-512x512.png
 # لكل هوية تضعها هنا ستظهر أيقونة في أسفل المدونة
 footer-links:
   #  email: info@cybersenshi.com
-  rss: Cybersenshi.com
+  # rss: Cybersenshi.com
   twitter: CybersenshiHQ
   linkedin: company/cybersenshi
 
