@@ -12,17 +12,17 @@ title: كيف يحتال المحتال عندما يحتال؟
 و بمراجعة الصور التي تمت مشاركتها من قِبَل مسؤول/أدمن القناة، تأكدنا بأنها حيلة إلكترونية لعدة أسباب جلية منها:
 1. الربح العالي، حيث يَعِدُك مسؤول/أدمن القناة بربح قدره يصل إلى 17 ضعف خلال 52 أسبوع فور إستثمارك. وهذا غير منطقي في عالم الإستثمار.
 
-![image1]({{ site.baseurl }}/images/Scheme1.png)
+![image1]({{ site.baseurl }}/images/scheme1.png)
 
 
 2. الكاش السريع، يعدك مسؤول/أدمن القناة بتوزيع الأرباح بشكل أسبوعي، على خلاف العادة في عالم الإستثمار.
 
-![image2]({{ site.baseurl }}/images/Scheme2.png)
+![image2]({{ site.baseurl }}/images/scheme2.png)
 
 
 3. تعدد الحسابات البنكية التي تستقبل الأموال و التي يتم التحويل منها.
 
-![image3]({{ site.baseurl }}/images/Scheme3.png)
+![image3]({{ site.baseurl }}/images/scheme3.png)
 
 
 4. توقيع العقود بعد أن تقوم بتحويل الأموال، وهذا عكس السائد في التجارة حيث أن العقود تأتي أولاً.
@@ -30,22 +30,22 @@ title: كيف يحتال المحتال عندما يحتال؟
 
 5. رقم سجل تجاري مزيف، وبعد التحقق منه من خلال خدمات وزارة التجارة، يتضح أن الرقم يرجع لشركة مطروحة بالفعل في سوق الأسهم السعودي.
 
-![image4]({{ site.baseurl }}/images/Scheme4.png)
+![image4]({{ site.baseurl }}/images/scheme4.png)
 
 
 6. التعامل بأسماء تجارية وهمية.
 
-![image5]({{ site.baseurl }}/images/Scheme5.png)
+![image5]({{ site.baseurl }}/images/scheme5.png)
 
 
 7. عدم وجود وسيلة للتواصل أو عنوان و عدم وجود ممثل أو ضابط إتصال.
 
-![image6]({{ site.baseurl }}/images/Scheme6.png)
+![image6]({{ site.baseurl }}/images/scheme6.png)
 
 
 8. الأخطاء الإملائية المتكررة.
 
-![image7]({{ site.baseurl }}/images/Scheme7.png)
+![image7]({{ site.baseurl }}/images/scheme7.png)
 
 
 هذا النوع من الإحتيال الإلكتروني هو مزيج بين الإحتيال المالي التقليدي و الحديث مثل:
